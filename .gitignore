@@ -74,9 +74,9 @@ coverage/
 Thumbs.db
 ehthumbs.db
 
-
+*.7z
 tiki_product_data
-.log
+*.log
 data
 myenv
 myvenv
