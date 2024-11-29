@@ -79,6 +79,7 @@ ehthumbs.db
 
 data
 myenv
+myvenv
 tokenized_val_dataset
 tokenized_train_dataset
 wandb
